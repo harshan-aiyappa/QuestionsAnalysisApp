@@ -1,0 +1,12 @@
+// frontend/src/components/Footer.js
+import React from 'react';
+
+const Footer = () => {
+  return (
+    <footer>
+      <p>&copy; 2023 Lingotran Pvt Ltd.</p>
+    </footer>
+  );
+};
+
+export default Footer;
